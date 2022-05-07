@@ -1,0 +1,20 @@
+{
+    "name": "luanardev/settings",
+    "homepage": "https://github.com/luanardev/settings",
+    "description": "Spatie Laravel Settings",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Simpokolwe",
+            "email": "bsimpokolwe@luanar.ac.mw"
+        }
+    ],
+    "require": {
+        "spatie/laravel-settings": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Luanardev\\Settings\\": "src"
+        }
+    }
+}
